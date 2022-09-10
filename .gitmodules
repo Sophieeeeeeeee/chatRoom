@@ -1,0 +1,3 @@
+[submodule "chatroom-frontend"]
+	path = chatroom-frontend
+	url = https://github.com/Sophieeeeeeeee/chatroom.git
